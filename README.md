@@ -2,6 +2,9 @@
 
 Stop worrying about your ISP snooping, telemetry from public providers, or configuring complex firewall rules. This configuration enables **maximum privacy** for your DNS queries using **Anonymized DNSCrypt** via high-security relays.
 
+<img width="880" height="275" alt="image" src="https://github.com/user-attachments/assets/948dba5e-8593-4399-847f-50b458da01be" />
+
+
 ## 🛡️ Features
 
 *   **Anonymized DNS:** Your traffic is routed through multiple servers. No single entity (Relay, Resolver, or ISP) knows both **who you are** and **what you are searching for**.
